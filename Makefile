@@ -1,4 +1,4 @@
 .PHONY: build
 
 build:
-	docker build -t ejholmes/debug .
+	docker build -t ejholmes/inspector .
