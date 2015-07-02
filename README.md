@@ -1,6 +1,6 @@
 # Inspector
 
-Inspector is a simple HTTP server that simple JSON encodes the incoming request and writes it out as the response, making it easy to inspect headers.
+Inspector is a simple HTTP server that simply JSON encodes the incoming request and writes it out as the response, making it easy to inspect headers.
 
 ## Example Response
 
